@@ -41,3 +41,9 @@ GDD seed drafted — awaiting owner decisions on tone, perspective, and launch t
 ---
 
 © 2026. All rights reserved.
+
+## Playable M0 prototype
+
+**Live:** https://subtiliorars-sys.github.io/Clean-Sheet---Preview/
+
+Built assets live under `docs/` (GitHub Pages). Refresh with HQ `scripts/publish-preview.ps1`. Controls: A/D dive, M mute, Esc title. Three goals conceded ends the run.
