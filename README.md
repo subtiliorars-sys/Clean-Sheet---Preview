@@ -33,6 +33,11 @@ Public concept materials only. Full GDD, market recon, and source live in the pr
 
 GDD seed drafted — awaiting owner decisions on tone, perspective, and launch timeline.
 
+## Fleet
+
+- **HQ:** [subtiliorars-sys/Clean-Sheet](https://github.com/subtiliorars-sys/Clean-Sheet) *(private — org members only)*
+- **Connectome:** [subtiliorars-sys/neural-network — `connectome/`](https://github.com/subtiliorars-sys/neural-network/tree/main/connectome) (`repos.yaml`, `fleet-kanban.yaml`)
+
 ---
 
 © 2026. All rights reserved.
