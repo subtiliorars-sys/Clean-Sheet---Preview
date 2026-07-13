@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="description" content="Clean Sheet — you are the keeper, the last line." />
+    <title>Clean Sheet</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bungee&family=Nunito:wght@700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --turf: #2f9e44;
+        --sky: #4cc9f0;
+        --ink: #14213d;
+        --accent: #f72585;
+        --cream: #fff8e7;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        overflow: hidden;
+        background: radial-gradient(ellipse at 50% 0%, #7bdff2 0%, #3a86ff 45%, #14213d 100%);
+        color: var(--cream);
+        font-family: Nunito, system-ui, sans-serif;
+      }
+      #app {
+        width: 100%;
+        height: 100%;
+        display: grid;
+        place-items: center;
+      }
+      #game-root {
+        width: min(100vw, 960px);
+        height: min(100vh, 540px);
+        box-shadow: 0 28px 90px rgba(0, 0, 0, 0.5);
+        border: 3px solid rgba(255, 248, 231, 0.35);
+        border-radius: 10px;
+        overflow: hidden;
+        background: #14213d;
+      }
+      canvas {
+        display: block;
+        image-rendering: auto;
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-CabvB8rc.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div id="game-root"></div>
+    </div>
+  </body>
+</html>
