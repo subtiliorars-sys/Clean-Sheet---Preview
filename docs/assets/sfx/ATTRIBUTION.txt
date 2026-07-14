@@ -1,2 +1,3 @@
-Kenney Impact Sounds + UI Audio (CC0) — https://kenney.nl
-Files: kick.ogg, save.ogg, goal.ogg, click.ogg — from game-audio-assets.
+ï»¿Kenney Impact Sounds + Interface Sounds + UI Audio (CC0) â€” https://kenney.nl
+Via house lib subtiliorars-sys/game-audio-assets.
+Files: kick, save, goal, click, step, bell, thud, clang, confirm, rise (.ogg).
