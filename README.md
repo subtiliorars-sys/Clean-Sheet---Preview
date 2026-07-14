@@ -2,6 +2,11 @@
 
 The goalkeeper-as-protagonist game — a clean-room original, Steam-first.
 
+
+### First-run tip
+
+Open [Play](https://subtiliorars-sys.github.io/Clean-Sheet---Preview/) for the public build. Wait for the boot scuff before diving - feints skip the dust tell. Esc pauses; M mutes. Private HQ gameplay lives in Clean-Sheet.
+
 ## What is Clean Sheet?
 
 Every football game puts you in the striker's boots or the manager's chair. **Clean Sheet**
