@@ -1,3 +1,8 @@
 ﻿Kenney Impact Sounds + Interface Sounds + UI Audio (CC0) — https://kenney.nl
 Via house lib subtiliorars-sys/game-audio-assets.
 Files: kick, save, goal, click, step, bell, thud, clang, confirm, rise (.ogg).
+
+Kenney Music Jingles (CC0) — via game-audio-assets vendor/kenney/music-jingles:
+- music_bed.ogg ← 8-Bit jingles/jingles_NES11.ogg (looping arcade bed)
+- crowd_cheer.ogg ← Hit jingles/jingles_HIT05.ogg (save crowd swell)
+- crowd_groan.ogg ← Hit jingles/jingles_HIT02.ogg (concede reaction)
